@@ -142,5 +142,6 @@ TestBaseModel class:
 
 ## Authors
 
-[Vincent Kimatu](https://github.com/VincentKimatu)
-[Alvin Mckyle](https://github.com/McKyl)
+-[Vincent Kimatu](https://github.com/VincentKimatu)
+
+-[Alvin Mckyle](https://github.com/McKyl)
